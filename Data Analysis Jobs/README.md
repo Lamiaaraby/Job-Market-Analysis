@@ -103,7 +103,7 @@ sns.barplot(data=top_pay_2023, x='median', y=top_pay_2023.index, hue='median', a
 sns.barplot(data=top_count_2023, x='median', y=top_count_2023.index, hue='median', ax=ax[1], palette = palette)
 ```
 ### Result
-![Highest Demand & Most Paid Skills 2023](Images\Salary_Analysis_2023.png)
+![Highest Demand & Most Paid Skills 2023](Images/Salary_Analysis_2023.png)
 
 ### 💡 Insights
 **Core skills = high demand, stable salaries**
@@ -215,6 +215,7 @@ Python (pandas, matplotlib, seaborn) — main stack.
 adjustText for labeling scatterplots (optional).
 
 Data may include missing salary values — salary analysis uses only standardized salary rows.
+
 
 
 
