@@ -77,7 +77,7 @@ fig , ax = plt.subplots(2 , 1 , figsize = (10,8))
 sns.lineplot(data = df_year , dashes = False , legend = 'full', palette = 'Set2' , ax = ax[i])
 ```
 ### Result
-![Top Skills Tend 2023 & 2024](Images\Skills_Trend.png)
+![Top Skills Tend 2023 & 2024](Images/Skills_Trend.png)
 
 ### 💡 Insights
 
@@ -215,6 +215,7 @@ Python (pandas, matplotlib, seaborn) — main stack.
 adjustText for labeling scatterplots (optional).
 
 Data may include missing salary values — salary analysis uses only standardized salary rows.
+
 
 
 
