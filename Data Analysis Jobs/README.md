@@ -172,7 +172,7 @@ fig , ax =plt.subplots(1,2,figsize=(12,5))
 sns.scatterplot(data = df_years[i] , x="skill count", y="median salary" , hue=df_year.index , palette="tab10", s=100 , ax=ax[i])
 ```
 ### Result
-![Top Optimal Skills 2023 & 2024](Images\Optimal_Skills_2023_&_2024.png)
+![Top Optimal Skills 2023 & 2024](Images/Optimal_Skills_2023_%26_2024.png)
 
 ### 💡 Insights
 **Optimal Skills Insights (2023 vs 2024)**
@@ -215,6 +215,7 @@ Python (pandas, matplotlib, seaborn) — main stack.
 adjustText for labeling scatterplots (optional).
 
 Data may include missing salary values — salary analysis uses only standardized salary rows.
+
 
 
 
