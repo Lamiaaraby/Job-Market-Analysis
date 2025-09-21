@@ -56,7 +56,7 @@ sns.barplot(data = df_year , x = 'skills_per', y = 'job_skills', hue = 'skills_c
 ```
 
 ### Result
-![Top Skills Demand 2023 & 2024](Images\Skills_Demand.png)
+![Top Skills Demand 2023 & 2024](Images/Skills_Demand.png)
 
 ### 💡 Insights
 
@@ -215,5 +215,6 @@ Python (pandas, matplotlib, seaborn) — main stack.
 adjustText for labeling scatterplots (optional).
 
 Data may include missing salary values — salary analysis uses only standardized salary rows.
+
 
 
