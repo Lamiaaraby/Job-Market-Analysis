@@ -169,7 +169,7 @@ data_plot=job_skills_per[job_skills_per['job_title_short']==job_title].head(5)
 ```
 ### Results
 
-![Percentages of Skills Requested in the US Job Postings](Images\Skills_Demand.png)
+![Percentages of Skills Requested in the US Job Postings](Images/Skills_Demand.png))
 
 ### 📌 Insights:
 
@@ -192,5 +192,6 @@ The US as the largest market.
 Clear role-specific skill demands (SQL, Python, Excel, Cloud, ML).
 
 Growing opportunities without strict degree requirements.
+
 
 **These insights can guide aspiring professionals in prioritizing skills and career path**
