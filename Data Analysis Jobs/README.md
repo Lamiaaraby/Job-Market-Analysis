@@ -136,7 +136,7 @@ sns.barplot(data=top_pay_2024, x='median', y=top_pay_2024.index, hue='median', a
 sns.barplot(data=top_count_2024, x='median', y=top_count_2024.index, hue='median', ax=ax[1], palette = palette)
 ```
 ### Result
-![Highest Demand & Most Paid Skills 2024](Images\Salary_Analysis_2024.png)
+![Highest Demand & Most Paid Skills 2024](Images/Salary_Analysis_2024.png)
 
 ### 💡 Insights
 - Azure ($108K, 184 jobs) and AWS ($102.5K, 198 jobs) dominate both demand and pay → Cloud skills are now essential for modern data roles.
@@ -215,6 +215,7 @@ Python (pandas, matplotlib, seaborn) — main stack.
 adjustText for labeling scatterplots (optional).
 
 Data may include missing salary values — salary analysis uses only standardized salary rows.
+
 
 
 
