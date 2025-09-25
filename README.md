@@ -17,12 +17,16 @@ The repository includes two datasets with some differences in structure and avai
 - Columns:Job Title, Company, Location, Posting Date, Salary Info, Job Description, Skills, etc.
 
 - Coverage: Wide range of roles across different industries.
+  
+- 📥 [Download All Jobs Dataset](https://drive.google.com/file/d/1JoCOBnK9bxvmWyoXG5ooRfFnAHGbpWY1/view?usp=sharing)
 
 ### Data Analyst Jobs Dataset
 
 - Columns: Job Title (shortened), Skills, Posting Date (month/year), Salary Info, etc.
 
 - Coverage: Filtered data focusing only on Data Analyst positions.
+
+- 📥 [Download Data Analyst Jobs Dataset](https://drive.google.com/file/d/1-ws39ASmW909hysyFYA1iQoCi9Rojjq8/view?usp=sharing)
 
 ## 🏗 Project Structure
 📂 Job-Market-Analysis  
@@ -49,4 +53,5 @@ The repository includes two datasets with some differences in structure and avai
 - **Trends Over Time**: Monthly skill frequency trends  
 - **Salary Insights**: Relationship between skills and offered salaries  
 - **Optimal Skills**: Identifying skills that balance both high demand and competitive salaries  
+
 
